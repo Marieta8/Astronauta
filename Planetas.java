@@ -58,7 +58,7 @@ public class Planetas {
     }
     
     
-         System.out.println("quiere seguir?");
+         System.out.println("Hola souy Alex, quieres seguir?");
                 seguir=teclado.next().charAt(0);
     }
 
